@@ -43,7 +43,7 @@
 1. List the results of the method being called for this specific object.
 1. Save your file.
 1. Add and commit your changes for this class.
-1. Repeat steps 3-8 with `class_2.txt`.
+1. Repeat steps 3-8 with `class_2.txt` with a different class that would also exist in a **RESTAURANT**.
 1. Repeat steps 9-14 with `class_2_example_instance.txt`.
 1. Push your changes to GitHub.
 
