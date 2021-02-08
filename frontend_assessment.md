@@ -22,7 +22,7 @@
 1. Add and commit your changes with the message "Complete program specific challenge"
 1. Push your changes to Github.
 
-## Part III: Classes, Objects, Attributes, and Methods (40 min)
+### Part III: Classes, Objects, Attributes, and Methods (40 min)
 1. Inside of `mod_0_skills`, create a new directory called `classes`.
 1. Inside of `classes`, create four files:
     - `class_1.txt` 
@@ -33,7 +33,7 @@
 
 1. Open up `class_1.txt` in your text editor.
 1. Brainstorm one class that might exist in a **RESTAURANT** and put this at the top of the file.
-List at least four attributes for that class. In parentheses, list the data type for that attribute.
+1. List at least four attributes for that class. In parentheses, list the data type for that attribute.
 1. List at least four methods for that class. In parentheses, explain what the method does, including the names of the attributes that it uses or modifies.
 1. Save your file.
 1. Add and commit your changes for this class with the message "Update class 1 with attributes and methods"
@@ -43,6 +43,6 @@ List at least four attributes for that class. In parentheses, list the data type
 1. List the results of the method being called for this specific object.
 1. Save your file.
 1. Add and commit your changes for this class.
-1. Repeat steps 3-8 with `class_2.txt`.
+1. Repeat steps 3-8 with `class_2.txt` with a different class that would also exist in a **RESTAURANT**.
 1. Repeat steps 9-14 with `class_2_example_instance.txt`.
 1. Push your changes to GitHub.
